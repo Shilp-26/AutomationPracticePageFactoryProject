@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Test"
+           tests="7"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="32.932">
+  <properties />
+  
+  
+            <testcase name="VerifyThatUserShouldLogOutSuccessFully" time="8.812" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="5.194" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="userShouldNavigateToSignInPageSuccessFully" time="3.534" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="4.333" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="2.977" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyTheErrorMessageWithInValidCredentials" time="4.718" classname="com.automation.testsuite.SignInPageTest" />
+                <testcase name="verifyThatUserShouldLogInSuccessFullyWithValidCredentials" time="3.364" classname="com.automation.testsuite.SignInPageTest" />
+      
+</testsuite>
